@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nguyễn Duy Cẩn 👋
 
-<!--
-**Decan209/decan209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Junior Web Developer with experience building scalable fullstack systems using Node.js, React, and PostgreSQL.
 
-Here are some ideas to get you started:
+I have worked on real-world production systems including Ads Management, Fulfillment Systems, Customer Support platforms, and Shopify Apps. I focus on backend architecture, performance optimization, caching strategies, and system security (JWT, 2FA, data encryption).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Frontend:** ReactJS, NextJS, Redux, TailwindCSS, Ant Design
+- **Backend:** NodeJS (Express, NestJS), Laravel
+- **Database:** PostgreSQL, MongoDB, MySQL, Redis
+- **DevOps:** Docker, Nginx, PM2, AWS, DigitalOcean
+- **Tools:** Git, GitHub, GitLab, AI tools (Copilot, ChatGPT)
+
+## 🎯 Interests
+System architecture, performance optimization, AI integration, scalable backend systems.
